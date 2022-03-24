@@ -1,5 +1,8 @@
 # PyInteraph
 
+IMPORTANT: WE HAVE A BRANDNEW VERSION OF PYINTERAPH, PYINTERAPH2 available here: https://github.com/ELELAB/pyinteraph2
+
+
 PyInteraph is a software suite designed to identify intramolecular interactions
 from protein ensembles and join them in a graph representation, which can be used to identify
 pathways of structural communication. It includes Python and C libraries and 
